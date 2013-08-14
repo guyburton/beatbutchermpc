@@ -18,7 +18,7 @@ Anyway, here it is.
 Build
 =====
 
-Use the command 'ant clean build MainWindow' to execute. Or import into eclipse and run the PatchedPhraseEditor project.
+Use the command 'ant clean build MainWindow' in the PatchedPhraseEditor folder to execute. Or import into eclipse and run the PatchedPhraseEditor project.
 
 Acknowledgements
 ================

@@ -14,3 +14,14 @@ These are things I am NOT proud of:
 Anyway, here it is. There is also a branch for the Beta version, which is buggy and frankly a mess.
 
 Note: It will take me a while to get everything published correctly.
+
+Build
+=====
+
+Use the command 'ant clean build MainWindow' to execute. Or import into eclipse and run the PatchedPhraseEditor project.
+
+Acknowledgements
+================
+
+Adam Odlund - Major contribution to reverse engineering the patched phrase format
+Substance Look and Feel - https://java.net/projects/substance

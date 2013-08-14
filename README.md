@@ -23,5 +23,6 @@ Use the command 'ant clean build MainWindow' to execute. Or import into eclipse 
 Acknowledgements
 ================
 
-Adam Odlund - Major contribution to reverse engineering the patched phrase format
-Substance Look and Feel - https://java.net/projects/substance
+* Adam Odlund - Major contribution to reverse engineering the patched phrase format
+* Substance Look and Feel - https://java.net/projects/substance
+* http://www.mpc-forums.com/

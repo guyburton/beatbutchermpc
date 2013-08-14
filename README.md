@@ -1,5 +1,7 @@
-BeatButcherMPC Patched Phrase Editor
-==============
+![Alt text](https://github.com/guyburton/beatbutchermpc/blob/master/splash.png?raw=true "Logo")
+
+Apology
+=======
 
 I have finally gotten around to releasing the source code for BeatButcherMPC. 
 This was originally written when I was a student in 2008, and revised slightly for a second relase in 2010. 
@@ -12,8 +14,6 @@ These are things I am NOT proud of:
 * The fact that I lost the communities faith by taking so long
 
 Anyway, here it is. There is also a branch for the Beta version, which is buggy and frankly a mess.
-
-Note: It will take me a while to get everything published correctly.
 
 Build
 =====

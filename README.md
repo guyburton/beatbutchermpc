@@ -13,7 +13,7 @@ These are things I am NOT proud of:
 * The fact that after the inital beta it took 3 years to release another version
 * The fact that I lost the communities faith by taking so long
 
-Anyway, here it is. There is also a branch for the Beta version, which is buggy and frankly a mess.
+Anyway, here it is.
 
 Build
 =====

@@ -1,5 +1,7 @@
-BeatButcherMPC Patched Phrase Editor
-==============
+![Alt text](https://github.com/guyburton/beatbutchermpc/blob/master/splash.png?raw=true "Logo")
+
+Apology
+=======
 
 I have finally gotten around to releasing the source code for BeatButcherMPC. 
 This was originally written when I was a student in 2008, and revised slightly for a second relase in 2010. 
@@ -11,17 +13,16 @@ These are things I am NOT proud of:
 * The fact that after the inital beta it took 3 years to release another version
 * The fact that I lost the communities faith by taking so long
 
-Anyway, here it is. There is also a branch for the Beta version, which is buggy and frankly a mess.
-
-Note: It will take me a while to get everything published correctly.
+Anyway, here it is.
 
 Build
 =====
 
-Use the command 'ant clean build MainWindow' to execute. Or import into eclipse and run the PatchedPhraseEditor project.
+Use the command 'ant clean build MainWindow' in the PatchedPhraseEditor folder to execute. Or import into eclipse and run the PatchedPhraseEditor project.
 
 Acknowledgements
 ================
 
-Adam Odlund - Major contribution to reverse engineering the patched phrase format
-Substance Look and Feel - https://java.net/projects/substance
+* Adam Odlund - Major contribution to reverse engineering the patched phrase format
+* Substance Look and Feel - https://java.net/projects/substance
+* http://www.mpc-forums.com/

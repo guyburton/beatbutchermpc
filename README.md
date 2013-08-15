@@ -1,4 +1,4 @@
-![Alt text](https://github.com/guyburton/beatbutchermpc/blob/master/splash.png?raw=true "Logo")
+![Alt text](https://github.com/guyburton/beatbutchermpc/blob/master/screenshot.jpg?raw=true "Screenshot")
 
 Apology
 =======
